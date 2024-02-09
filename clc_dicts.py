@@ -15,7 +15,7 @@ corine_level_2_dict = {
     11: 'Urban fabric',
     12: 'Industrial, commercial, and transport units',
     13: 'Mine, dump, and construction sites',
-    14: ' Artificial, non-agricultural vegetated areas',
+    14: 'Artificial, non-agricultural vegetated areas',
     
     # Agricultural areas
     21: 'Arable land',
