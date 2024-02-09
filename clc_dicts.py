@@ -11,7 +11,7 @@ corine_level_1_dict = {
 }
 
 corine_level_2_dict = {
-	# Artificial surfaces
+    # Artificial surfaces
     11: 'Urban fabric',
     12: 'Industrial, commercial, and transport units',
     13: 'Mine, dump, and construction sites',
@@ -38,7 +38,7 @@ corine_level_2_dict = {
 }
 
 corine_level_3_dict = {
-	# Urban fabric
+    # Urban fabric
     111: 'Continuous urban fabric',
     112: 'Discontinuous urban fabric',
     
@@ -103,7 +103,7 @@ corine_level_3_dict = {
     422: 'Salines',
     423: 'Intertidal flats',
     
-   	# Inland waters
+    # Inland waters
     511: 'Water courses',
     512: 'Water bodies',
     
